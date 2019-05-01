@@ -1,0 +1,16 @@
+{
+  "name": "criticalpath",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "findCritical": "URL=https://edumutante.es// node index.js",
+    "findCriticalAndSave": "URL=https://edumutante.es/ node index.js > critical.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.15.0"
+  }
+}
